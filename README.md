@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme.png" />
+  <img src="./me.png" />
 </p>
 
 <p align="center">
