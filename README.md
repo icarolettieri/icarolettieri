@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/-Outlook-c14438?style=flat-square&logo=Microsoft%20Outlook&logoColor=3f72af&color=112d4e&link=mailto:icaro_lettieri@live.com" alt="Icaro's Outlook" />
   </a>
   <a href="https://www.linkedin.com/in/icaro-lettieri/">
-    <img src="https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=3f72af&color=112d4e&link=https://www.linkedin.com/in/icaro-lettieri/" alt="Icaro's LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=3f72af&color=112d4e&link=https://www.linkedin.com/in/icaro-lettieri/" alt="Icaro's LinkedIn" />
   </a>
   <a href="https://app.rocketseat.com.br/me/icaro-pereira-1570326799">
     <img src="https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=React&logoColor=3f72af&color=112d4e&link=https://app.rocketseat.com.br/me/icaro-pereira-1570326799" alt="Icaro's Rocketseat profile" />
