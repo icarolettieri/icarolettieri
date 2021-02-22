@@ -12,11 +12,16 @@
 </p>
 
 <p align="center">
-  <h3>Connect with me:</h3>
-  <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/icaro-lettieri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/icaro-lettieri/" height="30" width="40" /></a>
-  <a href="https://fb.com/https://www.facebook.com/icaro.lettieri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/icaro.lettieri" height="30" width="40" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/icarolettieri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/icarolettieri/" height="30" width="40" /></a>
-  <a href="https://discord.gg/icarolettieri#1829" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="icarolettieri#1829" height="30" width="40" /></a>
-  </p>
+  <a href="mailto:icaro_lettieri@live.com">
+    <img src="https://img.shields.io/badge/-Outlook-c14438?style=flat-square&logo=Microsoft%20Outlook&logoColor=3f72af&color=112d4e&link=mailto:icaro_lettieri@live.com" alt="Icaro's Outlook" />
+  </a>
+  <a href="https://www.linkedin.com/in/icaro-lettieri/">
+    <img src="https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=3f72af&color=112d4e&link=https://www.linkedin.com/in/icaro-lettieri/" alt="Icaro's LinkedIn" />
+  </a>
+  <a href="https://app.rocketseat.com.br/me/icaro-pereira-1570326799">
+    <img src="https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=React&logoColor=3f72af&color=112d4e&link=https://app.rocketseat.com.br/me/icaro-pereira-1570326799" alt="Icaro's Rocketseat profile" />
+  </a>
+  <a href="https://discord.gg/icarolettieri#1829">
+    <img src="https://img.shields.io/badge/-Discord-6633cc?style=flat-square&logo=Discord&logoColor=3f72af&color=112d4e&link=https://discord.gg/icarolettieri#1829" alt="Icaro's Discord" />
+  </a>
 </p>
