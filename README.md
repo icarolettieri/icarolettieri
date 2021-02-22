@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./GitHub.png" />
+  <img src="./readme.png" />
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
+  <h3>Connect with me:</h3>
+  <p>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/icaro-lettieri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/icaro-lettieri/" height="30" width="40" /></a>
   <a href="https://fb.com/https://www.facebook.com/icaro.lettieri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/icaro.lettieri" height="30" width="40" /></a>
   <a href="https://instagram.com/https://www.instagram.com/icarolettieri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/icarolettieri/" height="30" width="40" /></a>
