@@ -4,10 +4,10 @@
 
 <p align="center">
   <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=icarolettieri&show_icons=true&theme=algolia" alt="Icaro's stats" height=175 />
+    <img src="https://github-readme-stats.vercel.app/api?username=icarolettieri&show_icons=true&theme=dracula" alt="Icaro's stats" height=175 />
   </span>
   <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icarolettieri&layout=compact&show_icons=true&theme=algolia" alt="Icaro's stats" height=175 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icarolettieri&layout=compact&show_icons=true&theme=dracula" alt="Icaro's stats" height=175 />
   </span>
 </p>
 
