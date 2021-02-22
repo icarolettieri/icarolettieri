@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, React Native**
 
-- 💬 Ask me about **Passionate about web and mobile development technologies, I follow the OmniStack trail 🚀. Always looking for personal and professional improvements, maintaining a good Networking for my purpose, using technology to help people (for humans, for humans 💜).**
+- 💬 Ask me about **Passionate about web and mobile development technologies, I follow the OmniStack trail 🚀.
+Always looking for personal and professional improvements, maintaining a good Networking for my purpose, using technology to help people (for humans, for humans 💜).**
 
 - 📫 How to reach me **icaro_lettieri@live.com**
 
@@ -15,9 +16,6 @@
 <a href="https://discord.gg/icarolettieri#1829" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="icarolettieri#1829" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icarolettieri&show_icons=true&theme=dark&locale=en&layout=compact" alt="icarolettieri" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icarolettieri&show_icons=true&theme=dracula&locale=en&layout=compact" alt="icarolettieri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icarolettieri&show_icons=true&theme=dracula&locale=en" alt="icarolettieri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=icarolettieri&show_icons=true&theme=dark&locale=en" alt="icarolettieri" /></p>
