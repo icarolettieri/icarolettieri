@@ -1,12 +1,5 @@
-<style>
-  img {
-    border: 1px solid #fff;
-    border-radius: 8px;
-  }
-</style>
-
 <p align="center">
-  <img src="./me.png" />
+  <img src="./me.png"/>
 </p>
 
 <p align="center">
