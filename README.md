@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./me.png"/>
-</p>
-
-<p align="center">
   <span>
     <img src="https://github-readme-stats.vercel.app/api?username=icarolettieri&show_icons=true&theme=dracula" alt="Icaro's stats" height=175 />
   </span>
